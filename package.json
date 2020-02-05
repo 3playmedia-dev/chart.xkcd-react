@@ -1,7 +1,7 @@
 {
-  "name": "chart.xkcd-react",
-  "version": "0.0.5",
-  "description": "React wrapper for the chart.xkcd library",
+  "name": "chart.xkcd-react-3play",
+  "version": "0.0.6",
+  "description": "3Play Media fork of React wrapper for the chart.xkcd library",
   "main": "build/index.js",
   "scripts": {
     "start": "node scripts/start.js",
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/obiwankenoobi/chart.xkcd-react.git"
+    "url": "git+https://github.com/matt3play/chart.xkcd-react.git"
   },
-  "author": "obiwankenoobi",
+  "author": "matt3play",
   "bugs": {
-    "url": "https://github.com/obiwankenoobi/chart.xkcd-react/issues"
+    "url": "https://github.com/matt3play/chart.xkcd-react/issues"
   },
-  "homepage": "https://github.com/obiwankenoobi/chart.xkcd-react#readme",
+  "homepage": "https://github.com/matt3play/chart.xkcd-react#readme",
   "license": "MIT",
   "dependencies": {},
   "peerDependencies": {
